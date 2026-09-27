@@ -2,8 +2,8 @@
 // Values simulate a connected household in French-speaking Switzerland.
 
 export const household = {
-  name: "Famille Rochat",
-  address: "Chemin des Vignes 12, 1071 Chexbres",
+  name: "Famille Ricard",
+  address: "Chemin des Pâles 18, 1095 Lutry",
   meter: "CH-SM-1042 8871",
   tariff: "Vario Plus — 0.2760 CHF/kWh",
   devices: ["Panneaux solaires 6.4 kWp", "Borne de recharge VE", "Pompe à chaleur", "Batterie 10 kWh"],

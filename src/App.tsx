@@ -1,4 +1,7 @@
 export default function App() {
-  console.log('App component rendering')
-  return <div style={{ color: 'white', fontSize: '24px' }}>Test: App is rendering</div>
+  return (
+    <div style={{ background: '#000', color: '#fff', padding: '20px' }}>
+      Hello World
+    </div>
+  )
 }
